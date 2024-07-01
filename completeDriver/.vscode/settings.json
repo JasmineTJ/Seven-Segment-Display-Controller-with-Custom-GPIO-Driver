@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gpio_private.h": "c",
+        "bit_operations.h": "c"
+    }
+}
